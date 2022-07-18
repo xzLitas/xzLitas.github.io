@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<title>一里荔枝的日志</title>
+
+<xmp theme="simplex" style="display:none;">
+# Markdown text goes in here
+|code|description|
+|----|-----------|
+|no|jack|
+```
+   #include<stdio.h>
+   int main()
+   {
+       printf("Hello World");
+       return 0;
+   }
+```
+## 二级标题1
+[![ok](drink.gif "drink milktea")](http://bing.com)
+
+[百度一下](http://baidu.com)
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
+et dolore magna aliqua. 
+### 三级标题
+你好吗？
+这是三级标题的内容。
+
+## Chapter 2
+
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+culpa qui officia deserunt mollit anim id est laborum.
+</xmp>
+
+<script src="strapdown.js"></script>
+</html>
